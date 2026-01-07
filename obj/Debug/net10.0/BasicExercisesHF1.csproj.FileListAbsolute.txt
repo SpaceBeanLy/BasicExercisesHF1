@@ -1,0 +1,14 @@
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\bin\Debug\net10.0\BasicExercisesHF1.exe
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\bin\Debug\net10.0\BasicExercisesHF1.deps.json
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\bin\Debug\net10.0\BasicExercisesHF1.runtimeconfig.json
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\bin\Debug\net10.0\BasicExercisesHF1.dll
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\bin\Debug\net10.0\BasicExercisesHF1.pdb
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.AssemblyInfoInputs.cache
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.AssemblyInfo.cs
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.csproj.CoreCompileInputs.cache
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.dll
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\refint\BasicExercisesHF1.dll
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.pdb
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.genruntimeconfig.cache
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\ref\BasicExercisesHF1.dll
