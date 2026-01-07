@@ -12,3 +12,4 @@ C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.
 C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.pdb
 C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.genruntimeconfig.cache
 C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\ref\BasicExercisesHF1.dll
+C:\Users\lyric\source\repos\BasicExercisesHF1\BasicExercisesHF1\obj\Debug\net10.0\BasicExercisesHF1.sourcelink.json

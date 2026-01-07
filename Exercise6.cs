@@ -8,7 +8,10 @@ namespace BasicExercisesHF1
     {
         internal static void TheCubeOf()
         {
-            //Code
+            Console.WriteLine("Enter a number:");
+            double number = Convert.ToDouble(Console.ReadLine());
+            double cube = (number * number * number);
+            Console.WriteLine($"{number} cubed is {cube}.");
         }
     }
 }

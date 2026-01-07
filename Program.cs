@@ -39,6 +39,7 @@
             Console.WriteLine("Exercise 7:");
             Exercise7.SwapTwoNumbers();
             Console.WriteLine("Thank you for going through these exercises with me!");
+            Console.ReadKey();
 
         }
     }

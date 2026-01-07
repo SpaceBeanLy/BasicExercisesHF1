@@ -8,7 +8,7 @@ namespace BasicExercisesHF1
     {
         internal static void IsResultTheSame()
         {
-            //Code
+            
         }
     }
 }
